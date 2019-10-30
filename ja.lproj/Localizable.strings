@@ -1,0 +1,19 @@
+"updateTitle" = "★☆★　新着情報　★☆★";
+"updateMessage" = "瞬間記憶力を鍛える\n「無料」姉妹アプリ\nQuick TAP 9 が\nリリースされました";
+"Do you want to connect\nto our world-ranking-server\nand Twitter\nvia HTTP?\n\nOnly user inputted name and\ntime will be sent." = "世界ランキングサーバに\n接続しますか?\n\n入力された名前と\nスコアだけを送信します";
+
+"Error" = "エラー";
+"Download failed" = "ダウンロードに失敗しました";
+"ReplayDataMsg" = "このデータをリプレイしますか?\n %2d :  %3.3f   %@";
+"ReplayDataMsg2" = "リプレイ / 再送信しますか?\n %2d :  %3.3f   %@";
+"DownloadAndReplayDataMsg" = "このデータをダウンロードして、\nリプレイしますか?\n %2d :  %3.3f   %@";
+"DownloadAndReplayDataMsg2" = "このデータをリプレイしますか?\n%@";
+
+"Repost best score" = "再送信";
+"Replay" = "リプレイ";
+
+"TwitterAlertTitle" = "Twitterアカウントがありません";
+"TwitterAlertMessa" = "Twitterアカウントが\n設定されていません。\nTwitterアカウントは\n”設定”で作成/追加できます。";
+
+"ChallengeInfoMsg" = "%.0f秒以内に\n%dから%dまでの\nパネルを消せ!!";
+"ChallengeClearMsg" = "LEVEL %d クリア!!";

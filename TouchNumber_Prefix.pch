@@ -1,0 +1,56 @@
+//
+// Prefix header for all source files of the 'OekakiYP' target in the 'OekakiYP' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_4_0
+#warning "This project uses features only available in iOS SDK 4.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+
+	// Game Center category　Free版
+	//#define GAME_CENTER_PLAY_COUNT	@"2"
+	//#define GAME_CENTER_PLAY_SCORE	@"3"
+
+    // Game Center category  有料版
+    //#define GAME_CENTER_PLAY_COUNT	@"grp.countid2"
+    //#define GAME_CENTER_PLAY_SCORE	@"grp.scoreid3"
+
+	// ScreenSize(Internal)
+	#define SCREEN_WIDTH			((float)320)
+	#define SCREEN_HEIGHT			((float)480)
+
+	#define ADVIEW_WIDTH			((float)320)
+	#define ADVIEW_HEIGHT			((float)50)
+
+
+    // RGB
+	#define RGB(r, g, b) (					\
+	[	UIColor								\
+	colorWithRed	: ((float)(r) / 255.0f)	\
+	green			: ((float)(g) / 255.0f)	\
+	blue			: ((float)(b) / 255.0f)	\
+	alpha			: 1.0f					\
+	]										\
+	)
+
+	#define RGBA(r, g, b, a)	(			\
+	[	UIColor								\
+	colorWithRed	: ((float)(r) / 255.0f)	\
+	green			: ((float)(g) / 255.0f)	\
+	blue			: ((float)(b) / 255.0f)	\
+	alpha			: (float)(a)			\
+	]										\
+	)
+
+	// LOG
+	#ifdef DEBUG
+		#define LOG(fmt, ...)		NSLog(@"%s:"fmt, __FUNCTION__, ## __VA_ARGS__)
+	#else
+		#define LOG(fmt, ...)		;
+	#endif
+#endif

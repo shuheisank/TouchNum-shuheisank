@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>device</key>
+	<dict>
+		<key></key>
+		<string>none</string>
+		<key>iPad2,5</key>
+		<string>iPadmini</string>
+		<key>iPhone3,3</key>
+		<string>iPhone4</string>
+		<key>iPad3,4</key>
+		<string>iPad4</string>
+		<key>iPhone5,1</key>
+		<string>iPhone5</string>
+		<key>IPad2,2</key>
+		<string>iPad2</string>
+		<key>iPad3,1</key>
+		<string>iPad3</string>
+		<key>iPhone4,1</key>
+		<string>iPhone4S</string>
+		<key>iPod5,1</key>
+		<string>iPodtouch5</string>
+		<key>iPhone3,1</key>
+		<string>iPhone4</string>
+		<key>iPhone5,2</key>
+		<string>iPhone5</string>
+		<key>IPad2,4</key>
+		<string>iPad2</string>
+		<key>x86_64</key>
+		<string>iOSSimulator</string>
+		<key>iPad2,1</key>
+		<string>iPad2</string>
+		<key>iPhone2,1</key>
+		<string>iPhone3GS</string>
+		<key>iPad3,3</key>
+		<string>iPad3</string>
+		<key>iPod4,1</key>
+		<string>iPodtouch4</string>
+		<key>IPad2,3</key>
+		<string>iPad2</string>
+		<key>iPad3,2</key>
+		<string>iPad3</string>
+	</dict>
+	<key>carrier</key>
+	<dict>
+		<key></key>
+		<string>none</string>
+		<key>ソフトバンクモバイル</key>
+		<string>Softbank</string>
+		<key>KDDI</key>
+		<string>au(KDDI)</string>
+	</dict>
+</dict>
+</plist>

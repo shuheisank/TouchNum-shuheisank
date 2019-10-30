@@ -1,0 +1,16 @@
+module ADFMovieReward [system] {
+  header "Headers/ADFmyMovieReward.h"
+  header "Headers/ADFmyMovieInterstitial.h"
+  header "Headers/ADFmyMovieNative.h"
+  header "Headers/ADFmyMovieNativeAdFlex.h"
+  header "Headers/ADFMovieOptions.h"
+  header "Headers/ADFLogger.h"
+  header "Headers/ADFMediaView.h"
+  header "Headers/ADFMovieError.h"
+  header "Headers/ADFMovieNativeAdInfo.h"
+  header "Headers/ADFmyMovieDelegateBase.h"
+  header "Headers/ADFmyMovieNativeInterface.h"
+  header "Headers/ADFmyMovieRewardInterface.h"
+  export *
+}
+

@@ -1,0 +1,320 @@
+{
+  "name": "adfurikunSDK_iOS_moviereward",
+  "version": "3.1.0",
+  "summary": "An iOS SDK for ADFURIKUN Movie Reward Ads",
+  "homepage": "https://adfurikun.jp/adfurikun/",
+  "license": {
+    "type": "Copyright",
+    "text": "Copyright Glossom Inc. All rights reserved."
+  },
+  "authors": "Glossom Inc.",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "path": "."
+  },
+  "default_subspecs": "All",
+  "static_framework": true,
+  "subspecs": [
+    {
+      "name": "Core",
+      "vendored_frameworks": "**/ADFMovieReward.framework",
+      "frameworks": [
+        "AdSupport",
+        "AVFoundation",
+        "CoreGraphics",
+        "CoreMedia",
+        "CoreTelephony",
+        "MediaPlayer",
+        "StoreKit",
+        "SystemConfiguration",
+        "SafariServices",
+        "UIKit",
+        "WebKit"
+      ],
+      "pod_target_xcconfig": {
+        "OTHER_LDFLAGS": [
+          "-ObjC",
+          "-fobjc-arc"
+        ]
+      }
+    },
+    {
+      "name": "AppLovin",
+      "dependencies": {
+        "adfurikunSDK_iOS_moviereward/Core": [
+
+        ]
+      },
+      "source_files": "**/adnetworks/AppLovin/**/*.{h,m}",
+      "vendored_frameworks": "**/adnetworks/AppLovin/AppLovinSDK.framework",
+      "frameworks": [
+        "AdSupport",
+        "AVFoundation",
+        "CoreGraphics",
+        "CoreMedia",
+        "CoreTelephony",
+        "MediaPlayer",
+        "SafariServices",
+        "StoreKit",
+        "SystemConfiguration",
+        "UIKit",
+        "WebKit"
+      ],
+      "libraries": "z"
+    },
+    {
+      "name": "AdColony",
+      "dependencies": {
+        "adfurikunSDK_iOS_moviereward/Core": [
+
+        ]
+      },
+      "source_files": "**/adnetworks/AdColony/*.{h,m}",
+      "vendored_frameworks": "**/adnetworks/AdColony/AdColony.framework",
+      "frameworks": [
+        "AdSupport",
+        "AudioToolbox",
+        "AVFoundation",
+        "CoreMedia",
+        "CoreTelephony",
+        "JavaScriptCore",
+        "MessageUI",
+        "MobileCoreServices",
+        "SystemConfiguration"
+      ],
+      "weak_frameworks": [
+        "EventKit",
+        "Social",
+        "StoreKit",
+        "WatchConnectivity",
+        "WebKit"
+      ],
+      "libraries": "z"
+    },
+    {
+      "name": "UnityAds",
+      "dependencies": {
+        "adfurikunSDK_iOS_moviereward/Core": [
+
+        ]
+      },
+      "source_files": "**/adnetworks/UnityAds/*.{h,m}",
+      "vendored_frameworks": "**/adnetworks/UnityAds/UnityAds.framework",
+      "frameworks": [
+        "AdSupport",
+        "AVFoundation",
+        "CFNetwork",
+        "CoreFoundation",
+        "CoreMedia",
+        "CoreTelephony",
+        "StoreKit",
+        "SystemConfiguration"
+      ]
+    },
+    {
+      "name": "Maio",
+      "dependencies": {
+        "adfurikunSDK_iOS_moviereward/Core": [
+
+        ]
+      },
+      "source_files": "**/adnetworks/Maio/*.{h,m}",
+      "vendored_frameworks": "**/adnetworks/Maio/Maio.framework",
+      "frameworks": [
+        "AdSupport",
+        "AVFoundation",
+        "CoreMedia",
+        "MobileCoreServices",
+        "SystemConfiguration",
+        "WebKit"
+      ],
+      "libraries": "z"
+    },
+    {
+      "name": "Tapjoy",
+      "dependencies": {
+        "adfurikunSDK_iOS_moviereward/Core": [
+
+        ]
+      },
+      "source_files": "**/adnetworks/Tapjoy/*.{h,m}",
+      "vendored_frameworks": "**/adnetworks/Tapjoy/Tapjoy.embeddedframework/Tapjoy.framework",
+      "resources": "**/adnetworks/Tapjoy/Tapjoy.embeddedframework/Resources/TapjoyResources.bundle",
+      "frameworks": [
+        "AdSupport",
+        "CFNetwork",
+        "CoreData",
+        "CoreGraphics",
+        "CoreMotion",
+        "EventKit",
+        "EventKitUI",
+        "Foundation",
+        "ImageIO",
+        "Mapkit",
+        "MediaPlayer",
+        "MessageUI",
+        "MobileCoreServices",
+        "QuartzCore",
+        "Security",
+        "SystemConfiguration",
+        "Twitter",
+        "UIKit"
+      ],
+      "weak_frameworks": [
+        "CoreLocation",
+        "CoreTelephony",
+        "PassKit",
+        "Social",
+        "StoreKit"
+      ],
+      "libraries": [
+        "c++",
+        "sqlite3.0",
+        "xml2",
+        "z"
+      ]
+    },
+    {
+      "name": "Vungle",
+      "dependencies": {
+        "adfurikunSDK_iOS_moviereward/Core": [
+
+        ]
+      },
+      "source_files": "**/adnetworks/Vungle/*.{h,m}",
+      "vendored_frameworks": "**/adnetworks/Vungle/VungleSDK.framework",
+      "frameworks": [
+        "AdSupport",
+        "AudioToolBox",
+        "AVFoundation",
+        "CFNetwork",
+        "CoreGraphics",
+        "CoreMedia",
+        "Foundation",
+        "MediaPlayer",
+        "QuartzCore",
+        "StoreKit",
+        "SystemConfiguration",
+        "UIKit"
+      ],
+      "weak_frameworks": "WebKit",
+      "libraries": [
+        "sqlite3.0",
+        "z"
+      ]
+    },
+    {
+      "name": "SmaAD",
+      "dependencies": {
+        "adfurikunSDK_iOS_moviereward/Core": [
+
+        ]
+      },
+      "source_files": "**/adnetworks/SmaAD/**/*.{h,m}",
+      "vendored_libraries": "**/adnetworks/SmaAD/libSmaadVideoAd.a",
+      "resources": "**/adnetworks/SmaAD/SmaadVideoAdResources.bundle",
+      "frameworks": [
+        "AdSupport",
+        "MediaPlayer",
+        "SystemConfiguration"
+      ]
+    },
+    {
+      "name": "Five",
+      "dependencies": {
+        "adfurikunSDK_iOS_moviereward/Core": [
+
+        ]
+      },
+      "source_files": "**/adnetworks/Five/*.{h,m}",
+      "vendored_frameworks": "**/adnetworks/Five/FiveAd.framework",
+      "frameworks": [
+        "AdSupport",
+        "AVFoundation",
+        "CoreMedia",
+        "CoreTelephony",
+        "SystemConfiguration"
+      ]
+    },
+    {
+      "name": "NendAd",
+      "dependencies": {
+        "adfurikunSDK_iOS_moviereward/Core": [
+
+        ]
+      },
+      "source_files": "**/adnetworks/NendAd/*.{h,m}",
+      "vendored_frameworks": "**/adnetworks/NendAd/NendAd.embeddedframework/NendAd.framework",
+      "resources": "**/adnetworks/NendAd/NendAd.embeddedframework/NendAd.framework/Resources/NendAdResource.bundle",
+      "frameworks": [
+        "AdSupport",
+        "AVFoundation",
+        "CoreLocation",
+        "CoreMedia",
+        "CoreMotion",
+        "CoreTelephony",
+        "ImageIO",
+        "Security",
+        "SystemConfiguration"
+      ],
+      "weak_frameworks": "WebKit"
+    },
+    {
+      "name": "AfiO",
+      "dependencies": {
+        "adfurikunSDK_iOS_moviereward/Core": [
+
+        ]
+      },
+      "source_files": "**/adnetworks/Afio/**/*.{h,m,png}",
+      "vendored_frameworks": "**/adnetworks/Afio/AMoAd.framework",
+      "frameworks": [
+        "AdSupport",
+        "AVFoundation",
+        "CoreMedia",
+        "ImageIO",
+        "StoreKit"
+      ]
+    },
+    {
+      "name": "All",
+      "dependencies": {
+        "adfurikunSDK_iOS_moviereward/Core": [
+
+        ],
+        "adfurikunSDK_iOS_moviereward/AppLovin": [
+
+        ],
+        "adfurikunSDK_iOS_moviereward/AdColony": [
+
+        ],
+        "adfurikunSDK_iOS_moviereward/UnityAds": [
+
+        ],
+        "adfurikunSDK_iOS_moviereward/Maio": [
+
+        ],
+        "adfurikunSDK_iOS_moviereward/Tapjoy": [
+
+        ],
+        "adfurikunSDK_iOS_moviereward/Vungle": [
+
+        ],
+        "adfurikunSDK_iOS_moviereward/SmaAD": [
+
+        ],
+        "adfurikunSDK_iOS_moviereward/Five": [
+
+        ],
+        "adfurikunSDK_iOS_moviereward/NendAd": [
+
+        ],
+        "adfurikunSDK_iOS_moviereward/AfiO": [
+
+        ]
+      }
+    }
+  ]
+}

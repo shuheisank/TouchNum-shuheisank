@@ -1,0 +1,22 @@
+"updateTitle" = "Quick Tap 9";
+"updateMessage" = "Train your instantaneous memory\nand peripheral vision.\nIt's FREE!!";
+"Do you want to connect\nto our world-ranking-server\nand Twitter\nvia HTTP?\n\nOnly user inputted name and\ntime will be sent." = "Do you want to connect\nto our world-ranking-server\nvia HTTP?\n\nOnly user inputted name and\ntime will be sent.";
+
+"Error" = "Error";
+"Download failed" = "Download failed.";
+
+"ReplayDataMsg" = "Replay this data?\n %2d :  %3.3f   %@";
+"ReplayDataMsg2" = "Replay or Repost this data?\n %2d :  %3.3f   %@";
+
+"DownloadAndReplayDataMsg" = "Download and Replay this data?\n %2d :  %3.3f   %@";
+"DownloadAndReplayDataMsg2" = "Download and Replay this data?\n%@";
+
+
+"Repost" = "Repost";
+"Replay" = "Replay";
+
+"TwitterAlertTitle" = "No Twitter Accounts";
+"TwitterAlertMessa" = "There are no Twitter accounts\nconfigured.You can add or create\na Twitter account in Settings.";
+
+"ChallengeInfoMsg" = "Tap within \n %.0f second\n from %d to %d!!";
+"ChallengeClearMsg" = "LEVEL %d Clear!!";

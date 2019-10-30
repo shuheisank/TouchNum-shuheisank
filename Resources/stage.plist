@@ -1,0 +1,1306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LEVEL 1</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 1</string>
+		<key>panel_color</key>
+		<integer>0</integer>
+		<key>start_panel</key>
+		<integer>1</integer>
+		<key>end_panel</key>
+		<integer>10</integer>
+		<key>limit_time</key>
+		<real>10</real>
+	</dict>
+	<key>LEVEL 2</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 2</string>
+		<key>panel_color</key>
+		<integer>2</integer>
+		<key>start_panel</key>
+		<integer>1</integer>
+		<key>end_panel</key>
+		<integer>8</integer>
+		<key>limit_time</key>
+		<real>8</real>
+	</dict>
+	<key>LEVEL 3</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 3</string>
+		<key>panel_color</key>
+		<integer>1</integer>
+		<key>start_panel</key>
+		<integer>1</integer>
+		<key>end_panel</key>
+		<integer>6</integer>
+		<key>limit_time</key>
+		<real>6</real>
+	</dict>
+	<key>LEVEL 4</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 4</string>
+		<key>panel_color</key>
+		<integer>6</integer>
+		<key>start_panel</key>
+		<integer>1</integer>
+		<key>end_panel</key>
+		<integer>4</integer>
+		<key>limit_time</key>
+		<real>4</real>
+	</dict>
+	<key>LEVEL 5</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 5</string>
+		<key>panel_color</key>
+		<integer>5</integer>
+		<key>start_panel</key>
+		<integer>10</integer>
+		<key>end_panel</key>
+		<integer>16</integer>
+		<key>limit_time</key>
+		<real>7</real>
+	</dict>
+	<key>LEVEL 6</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 6</string>
+		<key>panel_color</key>
+		<integer>3</integer>
+		<key>start_panel</key>
+		<integer>10</integer>
+		<key>end_panel</key>
+		<integer>17</integer>
+		<key>limit_time</key>
+		<real>7</real>
+	</dict>
+	<key>LEVEL 7</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 7</string>
+		<key>panel_color</key>
+		<integer>1</integer>
+		<key>start_panel</key>
+		<integer>10</integer>
+		<key>end_panel</key>
+		<integer>18</integer>
+		<key>limit_time</key>
+		<real>8</real>
+	</dict>
+	<key>LEVEL 8</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 8</string>
+		<key>panel_color</key>
+		<integer>0</integer>
+		<key>start_panel</key>
+		<integer>10</integer>
+		<key>end_panel</key>
+		<integer>19</integer>
+		<key>limit_time</key>
+		<real>9</real>
+	</dict>
+	<key>LEVEL 9</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 9</string>
+		<key>panel_color</key>
+		<integer>6</integer>
+		<key>start_panel</key>
+		<integer>10</integer>
+		<key>end_panel</key>
+		<integer>20</integer>
+		<key>limit_time</key>
+		<real>9</real>
+	</dict>
+	<key>LEVEL 10</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 10</string>
+		<key>panel_color</key>
+		<integer>1</integer>
+		<key>start_panel</key>
+		<integer>1</integer>
+		<key>end_panel</key>
+		<integer>25</integer>
+		<key>limit_time</key>
+		<real>21</real>
+	</dict>
+	<key>LEVEL 11</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 11</string>
+		<key>panel_color</key>
+		<integer>2</integer>
+		<key>start_panel</key>
+		<integer>1</integer>
+		<key>end_panel</key>
+		<integer>5</integer>
+		<key>limit_time</key>
+		<real>4</real>
+	</dict>
+	<key>LEVEL 12</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 12</string>
+		<key>panel_color</key>
+		<integer>3</integer>
+		<key>start_panel</key>
+		<integer>6</integer>
+		<key>end_panel</key>
+		<integer>10</integer>
+		<key>limit_time</key>
+		<real>4</real>
+	</dict>
+	<key>LEVEL 13</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 13</string>
+		<key>panel_color</key>
+		<integer>6</integer>
+		<key>start_panel</key>
+		<integer>11</integer>
+		<key>end_panel</key>
+		<integer>15</integer>
+		<key>limit_time</key>
+		<real>4</real>
+	</dict>
+	<key>LEVEL 14</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 14</string>
+		<key>panel_color</key>
+		<integer>1</integer>
+		<key>start_panel</key>
+		<integer>16</integer>
+		<key>end_panel</key>
+		<integer>20</integer>
+		<key>limit_time</key>
+		<real>4</real>
+	</dict>
+	<key>LEVEL 15</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 15</string>
+		<key>panel_color</key>
+		<integer>3</integer>
+		<key>start_panel</key>
+		<integer>21</integer>
+		<key>end_panel</key>
+		<integer>25</integer>
+		<key>limit_time</key>
+		<real>4</real>
+	</dict>
+	<key>LEVEL 16</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 16</string>
+		<key>panel_color</key>
+		<integer>0</integer>
+		<key>start_panel</key>
+		<integer>1</integer>
+		<key>end_panel</key>
+		<integer>1</integer>
+		<key>limit_time</key>
+		<real>1</real>
+	</dict>
+	<key>LEVEL 17</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 17</string>
+		<key>panel_color</key>
+		<integer>2</integer>
+		<key>start_panel</key>
+		<integer>1</integer>
+		<key>end_panel</key>
+		<integer>9</integer>
+		<key>limit_time</key>
+		<real>7</real>
+	</dict>
+	<key>LEVEL 18</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 18</string>
+		<key>panel_color</key>
+		<integer>0</integer>
+		<key>start_panel</key>
+		<integer>10</integer>
+		<key>end_panel</key>
+		<integer>19</integer>
+		<key>limit_time</key>
+		<real>7</real>
+	</dict>
+	<key>LEVEL 19</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 19</string>
+		<key>panel_color</key>
+		<integer>4</integer>
+		<key>start_panel</key>
+		<integer>20</integer>
+		<key>end_panel</key>
+		<integer>25</integer>
+		<key>limit_time</key>
+		<real>4</real>
+	</dict>
+	<key>LEVEL 20</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 20</string>
+		<key>panel_color</key>
+		<integer>2</integer>
+		<key>start_panel</key>
+		<integer>1</integer>
+		<key>end_panel</key>
+		<integer>25</integer>
+		<key>limit_time</key>
+		<real>18</real>
+	</dict>
+	<key>LEVEL 21</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 21</string>
+		<key>panel_color</key>
+		<integer>1</integer>
+		<key>start_panel</key>
+		<integer>1</integer>
+		<key>end_panel</key>
+		<integer>9</integer>
+		<key>limit_time</key>
+		<real>6</real>
+	</dict>
+	<key>LEVEL 22</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 22</string>
+		<key>panel_color</key>
+		<integer>2</integer>
+		<key>start_panel</key>
+		<integer>10</integer>
+		<key>end_panel</key>
+		<integer>25</integer>
+		<key>limit_time</key>
+		<real>11</real>
+	</dict>
+	<key>LEVEL 23</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 23</string>
+		<key>panel_color</key>
+		<integer>4</integer>
+		<key>start_panel</key>
+		<integer>2</integer>
+		<key>end_panel</key>
+		<integer>10</integer>
+		<key>limit_time</key>
+		<real>6</real>
+	</dict>
+	<key>LEVEL 24</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 24</string>
+		<key>panel_color</key>
+		<integer>1</integer>
+		<key>start_panel</key>
+		<integer>11</integer>
+		<key>end_panel</key>
+		<integer>24</integer>
+		<key>limit_time</key>
+		<real>9</real>
+	</dict>
+	<key>LEVEL 25</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 25</string>
+		<key>panel_color</key>
+		<integer>5</integer>
+		<key>start_panel</key>
+		<integer>2</integer>
+		<key>end_panel</key>
+		<integer>5</integer>
+		<key>limit_time</key>
+		<real>3</real>
+	</dict>
+	<key>LEVEL 26</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 26</string>
+		<key>panel_color</key>
+		<integer>3</integer>
+		<key>start_panel</key>
+		<integer>7</integer>
+		<key>end_panel</key>
+		<integer>10</integer>
+		<key>limit_time</key>
+		<real>3</real>
+	</dict>
+	<key>LEVEL 27</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 27</string>
+		<key>panel_color</key>
+		<integer>6</integer>
+		<key>start_panel</key>
+		<integer>12</integer>
+		<key>end_panel</key>
+		<integer>15</integer>
+		<key>limit_time</key>
+		<real>3</real>
+	</dict>
+	<key>LEVEL 28</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 28</string>
+		<key>panel_color</key>
+		<integer>2</integer>
+		<key>start_panel</key>
+		<integer>17</integer>
+		<key>end_panel</key>
+		<integer>20</integer>
+		<key>limit_time</key>
+		<real>2</real>
+	</dict>
+	<key>LEVEL 29</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 29</string>
+		<key>panel_color</key>
+		<integer>5</integer>
+		<key>start_panel</key>
+		<integer>22</integer>
+		<key>end_panel</key>
+		<integer>25</integer>
+		<key>limit_time</key>
+		<real>2</real>
+	</dict>
+	<key>LEVEL 30</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 30</string>
+		<key>panel_color</key>
+		<integer>3</integer>
+		<key>start_panel</key>
+		<integer>1</integer>
+		<key>end_panel</key>
+		<integer>25</integer>
+		<key>limit_time</key>
+		<real>15</real>
+	</dict>
+	<key>LEVEL 31</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 31</string>
+		<key>panel_color</key>
+		<integer>1</integer>
+		<key>start_panel</key>
+		<integer>2</integer>
+		<key>end_panel</key>
+		<integer>11</integer>
+		<key>limit_time</key>
+		<real>6</real>
+	</dict>
+	<key>LEVEL 32</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 32</string>
+		<key>panel_color</key>
+		<integer>2</integer>
+		<key>start_panel</key>
+		<integer>5</integer>
+		<key>end_panel</key>
+		<integer>15</integer>
+		<key>limit_time</key>
+		<real>6</real>
+	</dict>
+	<key>LEVEL 33</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 33</string>
+		<key>panel_color</key>
+		<integer>6</integer>
+		<key>start_panel</key>
+		<integer>1</integer>
+		<key>end_panel</key>
+		<integer>12</integer>
+		<key>limit_time</key>
+		<real>7</real>
+	</dict>
+	<key>LEVEL 34</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 34</string>
+		<key>panel_color</key>
+		<integer>5</integer>
+		<key>start_panel</key>
+		<integer>3</integer>
+		<key>end_panel</key>
+		<integer>15</integer>
+		<key>limit_time</key>
+		<real>7</real>
+	</dict>
+	<key>LEVEL 35</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 35</string>
+		<key>panel_color</key>
+		<integer>3</integer>
+		<key>start_panel</key>
+		<integer>12</integer>
+		<key>end_panel</key>
+		<integer>25</integer>
+		<key>limit_time</key>
+		<real>8</real>
+	</dict>
+	<key>LEVEL 36</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 36</string>
+		<key>panel_color</key>
+		<integer>4</integer>
+		<key>start_panel</key>
+		<integer>7</integer>
+		<key>end_panel</key>
+		<integer>21</integer>
+		<key>limit_time</key>
+		<real>8</real>
+	</dict>
+	<key>LEVEL 37</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 37</string>
+		<key>panel_color</key>
+		<integer>1</integer>
+		<key>start_panel</key>
+		<integer>4</integer>
+		<key>end_panel</key>
+		<integer>19</integer>
+		<key>limit_time</key>
+		<real>8</real>
+	</dict>
+	<key>LEVEL 38</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 38</string>
+		<key>panel_color</key>
+		<integer>2</integer>
+		<key>start_panel</key>
+		<integer>6</integer>
+		<key>end_panel</key>
+		<integer>22</integer>
+		<key>limit_time</key>
+		<real>9</real>
+	</dict>
+	<key>LEVEL 39</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 39</string>
+		<key>panel_color</key>
+		<integer>3</integer>
+		<key>start_panel</key>
+		<integer>8</integer>
+		<key>end_panel</key>
+		<integer>25</integer>
+		<key>limit_time</key>
+		<real>9</real>
+	</dict>
+	<key>LEVEL 40</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 40</string>
+		<key>panel_color</key>
+		<integer>4</integer>
+		<key>start_panel</key>
+		<integer>1</integer>
+		<key>end_panel</key>
+		<integer>25</integer>
+		<key>limit_time</key>
+		<real>12</real>
+	</dict>
+	<key>LEVEL 41</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 41</string>
+		<key>panel_color</key>
+		<integer>6</integer>
+		<key>start_panel</key>
+		<integer>1</integer>
+		<key>end_panel</key>
+		<integer>19</integer>
+		<key>limit_time</key>
+		<real>9</real>
+	</dict>
+	<key>LEVEL 42</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 42</string>
+		<key>panel_color</key>
+		<integer>4</integer>
+		<key>start_panel</key>
+		<integer>1</integer>
+		<key>end_panel</key>
+		<integer>17</integer>
+		<key>limit_time</key>
+		<real>8</real>
+	</dict>
+	<key>LEVEL 43</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 43</string>
+		<key>panel_color</key>
+		<integer>1</integer>
+		<key>start_panel</key>
+		<integer>1</integer>
+		<key>end_panel</key>
+		<integer>15</integer>
+		<key>limit_time</key>
+		<real>7</real>
+	</dict>
+	<key>LEVEL 44</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 44</string>
+		<key>panel_color</key>
+		<integer>3</integer>
+		<key>start_panel</key>
+		<integer>1</integer>
+		<key>end_panel</key>
+		<integer>13</integer>
+		<key>limit_time</key>
+		<real>6</real>
+	</dict>
+	<key>LEVEL 45</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 45</string>
+		<key>panel_color</key>
+		<integer>2</integer>
+		<key>start_panel</key>
+		<integer>1</integer>
+		<key>end_panel</key>
+		<integer>11</integer>
+		<key>limit_time</key>
+		<real>5</real>
+	</dict>
+	<key>LEVEL 46</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 46</string>
+		<key>panel_color</key>
+		<integer>0</integer>
+		<key>start_panel</key>
+		<integer>1</integer>
+		<key>end_panel</key>
+		<integer>9</integer>
+		<key>limit_time</key>
+		<real>4</real>
+	</dict>
+	<key>LEVEL 47</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 47</string>
+		<key>panel_color</key>
+		<integer>1</integer>
+		<key>start_panel</key>
+		<integer>1</integer>
+		<key>end_panel</key>
+		<integer>6</integer>
+		<key>limit_time</key>
+		<real>3</real>
+	</dict>
+	<key>LEVEL 48</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 48</string>
+		<key>panel_color</key>
+		<integer>6</integer>
+		<key>start_panel</key>
+		<integer>1</integer>
+		<key>end_panel</key>
+		<integer>4</integer>
+		<key>limit_time</key>
+		<real>2</real>
+	</dict>
+	<key>LEVEL 49</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 49</string>
+		<key>panel_color</key>
+		<integer>1</integer>
+		<key>start_panel</key>
+		<integer>1</integer>
+		<key>end_panel</key>
+		<integer>2</integer>
+		<key>limit_time</key>
+		<real>1</real>
+	</dict>
+	<key>LEVEL 50</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 50</string>
+		<key>panel_color</key>
+		<integer>5</integer>
+		<key>start_panel</key>
+		<integer>1</integer>
+		<key>end_panel</key>
+		<integer>25</integer>
+		<key>limit_time</key>
+		<real>10</real>
+	</dict>
+	<key>LEVEL 51</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 51</string>
+		<key>panel_color</key>
+		<integer>2</integer>
+		<key>start_panel</key>
+		<integer>1</integer>
+		<key>end_panel</key>
+		<integer>8</integer>
+		<key>limit_time</key>
+		<real>3</real>
+	</dict>
+	<key>LEVEL 52</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 52</string>
+		<key>panel_color</key>
+		<integer>6</integer>
+		<key>start_panel</key>
+		<integer>2</integer>
+		<key>end_panel</key>
+		<integer>17</integer>
+		<key>limit_time</key>
+		<real>6</real>
+	</dict>
+	<key>LEVEL 53</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 53</string>
+		<key>panel_color</key>
+		<integer>1</integer>
+		<key>start_panel</key>
+		<integer>4</integer>
+		<key>end_panel</key>
+		<integer>15</integer>
+		<key>limit_time</key>
+		<real>5</real>
+	</dict>
+	<key>LEVEL 54</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 54</string>
+		<key>panel_color</key>
+		<integer>4</integer>
+		<key>start_panel</key>
+		<integer>16</integer>
+		<key>end_panel</key>
+		<integer>24</integer>
+		<key>limit_time</key>
+		<real>4</real>
+	</dict>
+	<key>LEVEL 55</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 55</string>
+		<key>panel_color</key>
+		<integer>5</integer>
+		<key>start_panel</key>
+		<integer>9</integer>
+		<key>end_panel</key>
+		<integer>11</integer>
+		<key>limit_time</key>
+		<real>1</real>
+	</dict>
+	<key>LEVEL 56</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 56</string>
+		<key>panel_color</key>
+		<integer>3</integer>
+		<key>start_panel</key>
+		<integer>5</integer>
+		<key>end_panel</key>
+		<integer>20</integer>
+		<key>limit_time</key>
+		<real>6</real>
+	</dict>
+	<key>LEVEL 57</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 57</string>
+		<key>panel_color</key>
+		<integer>5</integer>
+		<key>start_panel</key>
+		<integer>3</integer>
+		<key>end_panel</key>
+		<integer>16</integer>
+		<key>limit_time</key>
+		<real>5</real>
+	</dict>
+	<key>LEVEL 58</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 58</string>
+		<key>panel_color</key>
+		<integer>1</integer>
+		<key>start_panel</key>
+		<integer>2</integer>
+		<key>end_panel</key>
+		<integer>24</integer>
+		<key>limit_time</key>
+		<real>8</real>
+	</dict>
+	<key>LEVEL 59</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 59</string>
+		<key>panel_color</key>
+		<integer>3</integer>
+		<key>start_panel</key>
+		<integer>9</integer>
+		<key>end_panel</key>
+		<integer>13</integer>
+		<key>limit_time</key>
+		<real>2</real>
+	</dict>
+	<key>LEVEL 60</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 60</string>
+		<key>panel_color</key>
+		<integer>6</integer>
+		<key>start_panel</key>
+		<integer>1</integer>
+		<key>end_panel</key>
+		<integer>25</integer>
+		<key>limit_time</key>
+		<real>8</real>
+	</dict>
+	<key>LEVEL 61</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 61</string>
+		<key>panel_color</key>
+		<integer>4</integer>
+		<key>start_panel</key>
+		<integer>1</integer>
+		<key>end_panel</key>
+		<integer>5</integer>
+		<key>limit_time</key>
+		<real>2</real>
+	</dict>
+	<key>LEVEL 62</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 62</string>
+		<key>panel_color</key>
+		<integer>5</integer>
+		<key>start_panel</key>
+		<integer>6</integer>
+		<key>end_panel</key>
+		<integer>10</integer>
+		<key>limit_time</key>
+		<real>2</real>
+	</dict>
+	<key>LEVEL 63</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 63</string>
+		<key>panel_color</key>
+		<integer>6</integer>
+		<key>start_panel</key>
+		<integer>11</integer>
+		<key>end_panel</key>
+		<integer>15</integer>
+		<key>limit_time</key>
+		<real>2</real>
+	</dict>
+	<key>LEVEL 64</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 64</string>
+		<key>panel_color</key>
+		<integer>4</integer>
+		<key>start_panel</key>
+		<integer>16</integer>
+		<key>end_panel</key>
+		<integer>20</integer>
+		<key>limit_time</key>
+		<real>2</real>
+	</dict>
+	<key>LEVEL 65</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 65</string>
+		<key>panel_color</key>
+		<integer>3</integer>
+		<key>start_panel</key>
+		<integer>21</integer>
+		<key>end_panel</key>
+		<integer>25</integer>
+		<key>limit_time</key>
+		<real>2</real>
+	</dict>
+	<key>LEVEL 66</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 66</string>
+		<key>panel_color</key>
+		<integer>1</integer>
+		<key>start_panel</key>
+		<integer>1</integer>
+		<key>end_panel</key>
+		<integer>1</integer>
+		<key>limit_time</key>
+		<real>1</real>
+	</dict>
+	<key>LEVEL 67</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 67</string>
+		<key>panel_color</key>
+		<integer>5</integer>
+		<key>start_panel</key>
+		<integer>1</integer>
+		<key>end_panel</key>
+		<integer>9</integer>
+		<key>limit_time</key>
+		<real>3</real>
+	</dict>
+	<key>LEVEL 68</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 68</string>
+		<key>panel_color</key>
+		<integer>2</integer>
+		<key>start_panel</key>
+		<integer>10</integer>
+		<key>end_panel</key>
+		<integer>19</integer>
+		<key>limit_time</key>
+		<real>3</real>
+	</dict>
+	<key>LEVEL 69</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 69</string>
+		<key>panel_color</key>
+		<integer>1</integer>
+		<key>start_panel</key>
+		<integer>20</integer>
+		<key>end_panel</key>
+		<integer>25</integer>
+		<key>limit_time</key>
+		<real>2</real>
+	</dict>
+	<key>LEVEL 70</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 70</string>
+		<key>panel_color</key>
+		<integer>2</integer>
+		<key>start_panel</key>
+		<integer>1</integer>
+		<key>end_panel</key>
+		<integer>25</integer>
+		<key>limit_time</key>
+		<real>7</real>
+	</dict>
+	<key>LEVEL 71</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 71</string>
+		<key>panel_color</key>
+		<integer>6</integer>
+		<key>start_panel</key>
+		<integer>1</integer>
+		<key>end_panel</key>
+		<integer>3</integer>
+		<key>limit_time</key>
+		<real>1</real>
+	</dict>
+	<key>LEVEL 72</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 72</string>
+		<key>panel_color</key>
+		<integer>3</integer>
+		<key>start_panel</key>
+		<integer>4</integer>
+		<key>end_panel</key>
+		<integer>6</integer>
+		<key>limit_time</key>
+		<real>1</real>
+	</dict>
+	<key>LEVEL 73</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 73</string>
+		<key>panel_color</key>
+		<integer>0</integer>
+		<key>start_panel</key>
+		<integer>7</integer>
+		<key>end_panel</key>
+		<integer>9</integer>
+		<key>limit_time</key>
+		<real>1</real>
+	</dict>
+	<key>LEVEL 74</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 74</string>
+		<key>panel_color</key>
+		<integer>6</integer>
+		<key>start_panel</key>
+		<integer>10</integer>
+		<key>end_panel</key>
+		<integer>13</integer>
+		<key>limit_time</key>
+		<real>1</real>
+	</dict>
+	<key>LEVEL 75</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 75</string>
+		<key>panel_color</key>
+		<integer>3</integer>
+		<key>start_panel</key>
+		<integer>14</integer>
+		<key>end_panel</key>
+		<integer>17</integer>
+		<key>limit_time</key>
+		<real>1</real>
+	</dict>
+	<key>LEVEL 76</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 76</string>
+		<key>panel_color</key>
+		<integer>0</integer>
+		<key>start_panel</key>
+		<integer>18</integer>
+		<key>end_panel</key>
+		<integer>21</integer>
+		<key>limit_time</key>
+		<real>1</real>
+	</dict>
+	<key>LEVEL 77</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 77</string>
+		<key>panel_color</key>
+		<integer>2</integer>
+		<key>start_panel</key>
+		<integer>22</integer>
+		<key>end_panel</key>
+		<integer>25</integer>
+		<key>limit_time</key>
+		<real>1</real>
+	</dict>
+	<key>LEVEL 78</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 78</string>
+		<key>panel_color</key>
+		<integer>6</integer>
+		<key>start_panel</key>
+		<integer>1</integer>
+		<key>end_panel</key>
+		<integer>4</integer>
+		<key>limit_time</key>
+		<real>1</real>
+	</dict>
+	<key>LEVEL 79</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 79</string>
+		<key>panel_color</key>
+		<integer>2</integer>
+		<key>start_panel</key>
+		<integer>12</integer>
+		<key>end_panel</key>
+		<integer>15</integer>
+		<key>limit_time</key>
+		<real>1</real>
+	</dict>
+	<key>LEVEL 80</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 80</string>
+		<key>panel_color</key>
+		<integer>1</integer>
+		<key>start_panel</key>
+		<integer>1</integer>
+		<key>end_panel</key>
+		<integer>25</integer>
+		<key>limit_time</key>
+		<real>6</real>
+	</dict>
+	<key>LEVEL 81</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 81</string>
+		<key>panel_color</key>
+		<integer>4</integer>
+		<key>start_panel</key>
+		<integer>1</integer>
+		<key>end_panel</key>
+		<integer>10</integer>
+		<key>limit_time</key>
+		<real>3</real>
+	</dict>
+	<key>LEVEL 82</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 82</string>
+		<key>panel_color</key>
+		<integer>3</integer>
+		<key>start_panel</key>
+		<integer>1</integer>
+		<key>end_panel</key>
+		<integer>8</integer>
+		<key>limit_time</key>
+		<real>2</real>
+	</dict>
+	<key>LEVEL 83</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 83</string>
+		<key>panel_color</key>
+		<integer>5</integer>
+		<key>start_panel</key>
+		<integer>1</integer>
+		<key>end_panel</key>
+		<integer>6</integer>
+		<key>limit_time</key>
+		<real>2</real>
+	</dict>
+	<key>LEVEL 84</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 84</string>
+		<key>panel_color</key>
+		<integer>3</integer>
+		<key>start_panel</key>
+		<integer>1</integer>
+		<key>end_panel</key>
+		<integer>4</integer>
+		<key>limit_time</key>
+		<real>1</real>
+	</dict>
+	<key>LEVEL 85</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 85</string>
+		<key>panel_color</key>
+		<integer>2</integer>
+		<key>start_panel</key>
+		<integer>10</integer>
+		<key>end_panel</key>
+		<integer>16</integer>
+		<key>limit_time</key>
+		<real>2</real>
+	</dict>
+	<key>LEVEL 86</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 86</string>
+		<key>panel_color</key>
+		<integer>6</integer>
+		<key>start_panel</key>
+		<integer>10</integer>
+		<key>end_panel</key>
+		<integer>17</integer>
+		<key>limit_time</key>
+		<real>2</real>
+	</dict>
+	<key>LEVEL 87</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 87</string>
+		<key>panel_color</key>
+		<integer>1</integer>
+		<key>start_panel</key>
+		<integer>10</integer>
+		<key>end_panel</key>
+		<integer>18</integer>
+		<key>limit_time</key>
+		<real>2</real>
+	</dict>
+	<key>LEVEL 88</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 88</string>
+		<key>panel_color</key>
+		<integer>4</integer>
+		<key>start_panel</key>
+		<integer>10</integer>
+		<key>end_panel</key>
+		<integer>19</integer>
+		<key>limit_time</key>
+		<real>2</real>
+	</dict>
+	<key>LEVEL 89</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 89</string>
+		<key>panel_color</key>
+		<integer>2</integer>
+		<key>start_panel</key>
+		<integer>10</integer>
+		<key>end_panel</key>
+		<integer>20</integer>
+		<key>limit_time</key>
+		<real>2</real>
+	</dict>
+	<key>LEVEL 90</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 90</string>
+		<key>panel_color</key>
+		<integer>0</integer>
+		<key>start_panel</key>
+		<integer>1</integer>
+		<key>end_panel</key>
+		<integer>25</integer>
+		<key>limit_time</key>
+		<real>5</real>
+	</dict>
+	<key>LEVEL 91</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 91</string>
+		<key>panel_color</key>
+		<integer>6</integer>
+		<key>start_panel</key>
+		<integer>1</integer>
+		<key>end_panel</key>
+		<integer>9</integer>
+		<key>limit_time</key>
+		<real>2</real>
+	</dict>
+	<key>LEVEL 92</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 92</string>
+		<key>panel_color</key>
+		<integer>3</integer>
+		<key>start_panel</key>
+		<integer>10</integer>
+		<key>end_panel</key>
+		<integer>25</integer>
+		<key>limit_time</key>
+		<real>3</real>
+	</dict>
+	<key>LEVEL 93</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 93</string>
+		<key>panel_color</key>
+		<integer>2</integer>
+		<key>start_panel</key>
+		<integer>2</integer>
+		<key>end_panel</key>
+		<integer>10</integer>
+		<key>limit_time</key>
+		<real>2</real>
+	</dict>
+	<key>LEVEL 94</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 94</string>
+		<key>panel_color</key>
+		<integer>5</integer>
+		<key>start_panel</key>
+		<integer>11</integer>
+		<key>end_panel</key>
+		<integer>24</integer>
+		<key>limit_time</key>
+		<real>3</real>
+	</dict>
+	<key>LEVEL 95</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 95</string>
+		<key>panel_color</key>
+		<integer>0</integer>
+		<key>start_panel</key>
+		<integer>1</integer>
+		<key>end_panel</key>
+		<integer>5</integer>
+		<key>limit_time</key>
+		<real>1</real>
+	</dict>
+	<key>LEVEL 96</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 96</string>
+		<key>panel_color</key>
+		<integer>2</integer>
+		<key>start_panel</key>
+		<integer>6</integer>
+		<key>end_panel</key>
+		<integer>11</integer>
+		<key>limit_time</key>
+		<real>1</real>
+	</dict>
+	<key>LEVEL 97</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 97</string>
+		<key>panel_color</key>
+		<integer>6</integer>
+		<key>start_panel</key>
+		<integer>12</integer>
+		<key>end_panel</key>
+		<integer>17</integer>
+		<key>limit_time</key>
+		<real>1</real>
+	</dict>
+	<key>LEVEL 98</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 98</string>
+		<key>panel_color</key>
+		<integer>1</integer>
+		<key>start_panel</key>
+		<integer>2</integer>
+		<key>end_panel</key>
+		<integer>24</integer>
+		<key>limit_time</key>
+		<real>4</real>
+	</dict>
+	<key>LEVEL 99</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 99</string>
+		<key>panel_color</key>
+		<integer>0</integer>
+		<key>start_panel</key>
+		<integer>19</integer>
+		<key>end_panel</key>
+		<integer>25</integer>
+		<key>limit_time</key>
+		<real>1</real>
+	</dict>
+	<key>LEVEL 100</key>
+	<dict>
+		<key>name</key>
+		<string>LEVEL 100</string>
+		<key>panel_color</key>
+		<integer>7</integer>
+		<key>start_panel</key>
+		<integer>1</integer>
+		<key>end_panel</key>
+		<integer>25</integer>
+		<key>limit_time</key>
+		<real>4</real>
+	</dict>
+</dict>
+</plist>

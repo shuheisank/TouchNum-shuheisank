@@ -1,0 +1,6 @@
+framework module adfurikunSDK_iOS_moviereward {
+  umbrella header "adfurikunSDK_iOS_moviereward-umbrella.h"
+
+  export *
+  module * { export * }
+}
